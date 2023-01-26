@@ -1,15 +1,15 @@
 {
     "title": "ICDC_Data_Loading_Example_Files-TCL01",
     "loadingExamples": {
-        "TCL01-File_Transfer_Manifest - Sequence Analysis Files.tsv": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…File_Transfer_Manifest%20-%20Sequence%20Analysis%20Files.tsv",
-        "TCL01-File_Transfer_Manifest - Study Files.tsv": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…s/main/TCL01%20Loading%20File%20Example%20Set/TCL01-case.txt",
-        "TCL01-case.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…s/main/TCL01%20Loading%20File%20Example%20Set/TCL01-case.txt",
-        "TCL01-demographic.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…TCL01%20Loading%20File%20Example%20Set/TCL01-demographic.txt",
-        "TCL01-diagnosis.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…n/TCL01%20Loading%20File%20Example%20Set/TCL01-diagnosis.txt",
-        "TCL01-enrollment.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…/TCL01%20Loading%20File%20Example%20Set/TCL01-enrollment.txt",
-        "TCL01-principal_investigator.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…ding%20File%20Example%20Set/TCL01-principal_investigator.txt",
-        "TCL01-publication.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…TCL01%20Loading%20File%20Example%20Set/TCL01-publication.txt",
-        "TCL01-sample.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…main/TCL01%20Loading%20File%20Example%20Set/TCL01-sample.txt",
-        "TCL01-study.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-ex…/main/TCL01%20Loading%20File%20Example%20Set/TCL01-study.txt"
+        "TCL01-File_Transfer_Manifest - Sequence Analysis Files.tsv": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-File_Transfer_Manifest%20-%20Sequence%20Analysis%20Files.tsv",
+        "TCL01-File_Transfer_Manifest - Study Files.tsv": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-case.txt",
+        "TCL01-case.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-case.txt",
+        "TCL01-demographic.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-demographic.txt",
+        "TCL01-diagnosis.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-diagnosis.txt",
+        "TCL01-enrollment.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-enrollment.txt",
+        "TCL01-principal_investigator.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-principal_investigator.txt",
+        "TCL01-publication.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-publication.txt",
+        "TCL01-sample.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-sample.txt",
+        "TCL01-study.txt": "https://raw.githubusercontent.com/CBIIT/icdc-data-loading-example-sets/main/TCL01%20Loading%20File%20Example%20Set/TCL01-study.txt"
     }
 }
