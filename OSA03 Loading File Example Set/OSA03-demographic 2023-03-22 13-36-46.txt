@@ -1,0 +1,45 @@
+type	 case.case_id	demographic_id	breed	additional_breed_detail	patient_age_at_enrollment	date_of_birth	sex	weight	neutered_indicator
+demographic	OSA03-DOS-00	OSA03-DOS-00	Rottweiler			1990-04-18	Female		Yes
+demographic	OSA03-DOS-02	OSA03-DOS-02	Rottweiler				Male		Unknown
+demographic	OSA03-DOS-04	OSA03-DOS-04	Rottweiler			1990-09-08	Female		Unknown
+demographic	OSA03-DOS-0828	OSA03-DOS-0828	Mastiff				Male	73.3	Yes
+demographic	OSA03-DOS-0829	OSA03-DOS-0829	Flat-Coated Retriever				Male	29	Yes
+demographic	OSA03-DOS-0930	OSA03-DOS-0930	Newfoundland				Male	57.6	Yes
+demographic	OSA03-DOS-0931	OSA03-DOS-0931	Great Pyrenees				Female	44.9	Yes
+demographic	OSA03-DOS-0932	OSA03-DOS-0932	Unknown				Unknown		Unknown
+demographic	OSA03-DOS-0934	OSA03-DOS-0934	Rottweiler			2001-07-01	Male	55	Yes
+demographic	OSA03-DOS-0939	OSA03-DOS-0939	Great Pyrenees				Female	38.9	Yes
+demographic	OSA03-DOS-0940	OSA03-DOS-0940	Saint Bernard			2003-05-17	Male	67.4	Yes
+demographic	OSA03-DOS-0941	OSA03-DOS-0941	Labrador Retriever			2001-12-01	Male	46.4	Yes
+demographic	OSA03-DOS-0942	OSA03-DOS-0942	Irish Wolfhound			2003-11-05	Female	71.8	Yes
+demographic	OSA03-DOS-0944	OSA03-DOS-0944	German Shepherd Dog				Unknown	40.9	Unknown
+demographic	OSA03-DOS-0945	OSA03-DOS-0945	Rottweiler			2005-02-14	Male	45.7	Yes
+demographic	OSA03-DOS-0951	OSA03-DOS-0951	Mixed Breed	German Shepherd Dog		2001-09-24	Male	46.3	Yes
+demographic	OSA03-DOS-0956	OSA03-DOS-0956	Golden Retriever			2001-01-04	Male	37.6	Yes
+demographic	OSA03-DOS-09	OSA03-DOS-09	Irish Setter			1992-04-08	Male		Unknown
+demographic	OSA03-DOS-103	OSA03-DOS-103	Saluki			2002-02-01	Male		No
+demographic	OSA03-DOS-104	OSA03-DOS-104	Great Pyrenees			2005-10-01	Male		No
+demographic	OSA03-DOS-105	OSA03-DOS-105	Labrador Retriever			2007-05-16	Female		Yes
+demographic	OSA03-DOS-108	OSA03-DOS-108	Great Pyrenees			2005-05-01	Female		Yes
+demographic	OSA03-DOS-110	OSA03-DOS-110	Rottweiler			2003-07-07	Female	41.6	Yes
+demographic	OSA03-DOS-114	OSA03-DOS-114	Rottweiler				Female		Yes
+demographic	OSA03-DOS-11	OSA03-DOS-11	Rottweiler			1996-03-15	Female		Unknown
+demographic	OSA03-DOS-120	OSA03-DOS-120	German Shepherd Dog			2003-01-01	Male	39.9	No
+demographic	OSA03-DOS-121	OSA03-DOS-121	Brittany			2002-10-25	Female	28.6	Yes
+demographic	OSA03-DOS-24	OSA03-DOS-24	Golden Retriever			2001-02-17	Female		Yes
+demographic	OSA03-DOS-29	OSA03-DOS-29	Rottweiler			1997-05-21	Female		Unknown
+demographic	OSA03-DOS-32-2	OSA03-DOS-32-2	Great Pyrenees			1995-05-18	Female	47	Yes
+demographic	OSA03-DOS-39	OSA03-DOS-39	Great Dane			1996-01-01	Female		Yes
+demographic	OSA03-DOS-52	OSA03-DOS-52	Rottweiler			1996-03-17	Female		Unknown
+demographic	OSA03-DOS-54	OSA03-DOS-54	Boxer			1995-05-05	Female		Yes
+demographic	OSA03-DOS-55	OSA03-DOS-55	Borzoi			1993-03-04	Female		No
+demographic	OSA03-DOS-60	OSA03-DOS-60	Mastiff				Female		Unknown
+demographic	OSA03-DOS-64	OSA03-DOS-64	Rhodesian Ridgeback			2005-06-26	Male		Yes
+demographic	OSA03-DOS-66	OSA03-DOS-66	Rottweiler			1998-06-14	Female		Yes
+demographic	OSA03-DOS-67	OSA03-DOS-67	Mastiff			1994-03-01	Female		Yes
+demographic	OSA03-DOS-68	OSA03-DOS-68	Golden Retriever			2000-07-01	Female		Yes
+demographic	OSA03-DOS-69	OSA03-DOS-69	Rottweiler			1996-09-17	Male		Yes
+demographic	OSA03-DOS-71	OSA03-DOS-71	Golden Retriever			1999-12-20	Female		Yes
+demographic	OSA03-DOS-75	OSA03-DOS-75	Golden Retriever			1997-04-19	Female		Yes
+demographic	OSA03-DOS-85	OSA03-DOS-85	Golden Retriever			1999-02-16	Female		Yes
+demographic	OSA03-DOS-8	OSA03-DOS-8	Rottweiler			2000-01-25	Male	62.1	No
