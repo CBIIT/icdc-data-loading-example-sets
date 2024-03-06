@@ -1,0 +1,45 @@
+type	 case.case_id	 visit.visit_id	sample_id	sample_site	physical_sample_type	general_sample_pathology	tumor_sample_origin	summarized_sample_type	molecular_subtype	specific_sample_pathology	date_of_sample_collection	sample_chronology	necropsy_sample	tumor_grade	length_of_tumor	width_of_tumor	volume_of_tumor	percentage_tumor	sample_preservation	comment
+sample	OSA03-DOS-00		OSA03-DOS-00	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Chondroblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-02		OSA03-DOS-02	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-04		OSA03-DOS-04	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0828		OSA03-DOS-0828	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0829		OSA03-DOS-0829	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0930		OSA03-DOS-0930	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0931		OSA03-DOS-0931	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0932		OSA03-DOS-0932	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0934		OSA03-DOS-0934	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0939		OSA03-DOS-0939	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0940		OSA03-DOS-0940	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0941		OSA03-DOS-0941	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0942		OSA03-DOS-0942	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0944		OSA03-DOS-0944	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0945		OSA03-DOS-0945	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0951		OSA03-DOS-0951	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-0956		OSA03-DOS-0956	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-09		OSA03-DOS-09	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-103		OSA03-DOS-103	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-104		OSA03-DOS-104	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-105		OSA03-DOS-105	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-108		OSA03-DOS-108	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	2				Not Determined	Snap Frozen	
+sample	OSA03-DOS-110		OSA03-DOS-110	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	2				Not Determined	Snap Frozen	
+sample	OSA03-DOS-114		OSA03-DOS-114	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-11		OSA03-DOS-11	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Chondroblastic Osteosarcoma		Upon Death	Yes	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-120		OSA03-DOS-120	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-121		OSA03-DOS-121	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-24		OSA03-DOS-24	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-29		OSA03-DOS-29	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-32-2		OSA03-DOS-32-2	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Fibroblastic Osteosarcoma		Before Treatment	No	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-39		OSA03-DOS-39	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Fibroblastic Osteosarcoma		Upon Death	Yes	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-52		OSA03-DOS-52	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-54		OSA03-DOS-54	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Fibroblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-55		OSA03-DOS-55	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-60		OSA03-DOS-60	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-64		OSA03-DOS-64	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-66		OSA03-DOS-66	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Fibroblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-67		OSA03-DOS-67	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteosarcoma; Combined Type		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-68		OSA03-DOS-68	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-69		OSA03-DOS-69	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteosarcoma; Combined Type		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-71		OSA03-DOS-71	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-75		OSA03-DOS-75	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-85		OSA03-DOS-85	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Undefined		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
+sample	OSA03-DOS-8		OSA03-DOS-8	Bone	Tissue	Malignant	Primary	Primary Malignant Tumor Tissue		Osteoblastic Osteosarcoma		Before Treatment	No 	Unknown				Not Determined	Snap Frozen	
