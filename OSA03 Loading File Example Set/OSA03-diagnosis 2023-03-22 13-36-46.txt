@@ -1,0 +1,45 @@
+type	 case.case_id	diagnosis_id	disease_term	primary_disease_site	stage_of_disease	date_of_diagnosis	histology_cytopathology	date_of_histology_confirmation	histological_grade	best_response	pathology_report	treatment_data	follow_up_data	concurrent_disease	concurrent_disease_type
+diagnosis	OSA03-DOS-00	OSA03-DOS-00	Osteosarcoma	Bone (Appendicular)	Unknown	1999-11-03	Chondroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-02	OSA03-DOS-02	Osteosarcoma	Unknown	Unknown	2000-07-24	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-04	OSA03-DOS-04	Osteosarcoma	Unknown	Unknown	2000-08-03	Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-0828	OSA03-DOS-0828	Osteosarcoma	Bone (Appendicular)	IIb	2008-09-23	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0829	OSA03-DOS-0829	Osteosarcoma	Bone (Appendicular)	IIb	2008-10-28	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0930	OSA03-DOS-0930	Osteosarcoma	Bone (Appendicular)	IIb	2009-02-03	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0931	OSA03-DOS-0931	Osteosarcoma	Bone (Appendicular)	IIb	2009-02-04	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0932	OSA03-DOS-0932	Osteosarcoma	Unknown	Unknown		Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-0934	OSA03-DOS-0934	Osteosarcoma	Bone (Appendicular)	IIb	2009-03-31	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0939	OSA03-DOS-0939	Osteosarcoma	Bone (Appendicular)	IIb	2009-06-02	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0940	OSA03-DOS-0940	Osteosarcoma	Bone (Appendicular)	IIb	2009-06-16	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0941	OSA03-DOS-0941	Osteosarcoma	Bone (Appendicular)	IIb	2009-06-23	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0942	OSA03-DOS-0942	Osteosarcoma	Bone (Appendicular)	IIb	2009-06-23	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0944	OSA03-DOS-0944	Osteosarcoma	Bone (Appendicular)	IIb	2009-07-07	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0945	OSA03-DOS-0945	Osteosarcoma	Bone (Appendicular)	IIb	2009-07-21	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0951	OSA03-DOS-0951	Osteosarcoma	Bone (Appendicular)	IIb	2009-07-13	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-0956	OSA03-DOS-0956	Osteosarcoma	Bone (Appendicular)	IIb	2009-09-08	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-09	OSA03-DOS-09	Osteosarcoma	Unknown	Unknown	2001-02-07	Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-103	OSA03-DOS-103	Osteosarcoma	Bone (Appendicular)	Unknown	2010-07-01	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-104	OSA03-DOS-104	Osteosarcoma	Bone (Appendicular)	Unknown	2010-10-12	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-105	OSA03-DOS-105	Osteosarcoma	Bone	Unknown	2010-10-27	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-108	OSA03-DOS-108	Osteosarcoma	Bone (Appendicular)	Unknown	2011-01-06	Undefined		2	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-110	OSA03-DOS-110	Osteosarcoma	Bone (Appendicular)	Unknown	2011-10-21	Osteoblastic Osteosarcoma		2	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-114	OSA03-DOS-114	Osteosarcoma	Bone (Appendicular)	Unknown	2011-07-22	Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-11	OSA03-DOS-11	Osteosarcoma	Unknown	III	2001-06-15	Chondroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-120	OSA03-DOS-120	Osteosarcoma	Bone (Appendicular)	Unknown	2013-05-29	Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-121	OSA03-DOS-121	Osteosarcoma	Bone (Appendicular)	Unknown	2013-06-07	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-24	OSA03-DOS-24	Osteosarcoma	Bone (Appendicular)	Unknown	2003-10-28	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-29	OSA03-DOS-29	Osteosarcoma	Bone (Appendicular)	Unknown	2004-03-11	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-32-2	OSA03-DOS-32-2	Osteosarcoma	Bone (Appendicular)	Unknown	2004-03-17	Fibroblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-39	OSA03-DOS-39	Osteosarcoma	Bone (Appendicular)	Unknown	2004-07-07	Fibroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-52	OSA03-DOS-52	Osteosarcoma	Unknown	Unknown	2004-12-20	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-54	OSA03-DOS-54	Osteosarcoma	Bone (Appendicular)	Unknown	2005-01-12	Fibroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-55	OSA03-DOS-55	Osteosarcoma	Bone (Appendicular)	Unknown	2004-11-30	Undefined		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-60	OSA03-DOS-60	Osteosarcoma	Not Applicable	Unknown	2005-02-01	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-64	OSA03-DOS-64	Osteosarcoma	Unknown	III	2005-01-16	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-66	OSA03-DOS-66	Osteosarcoma	Bone (Appendicular)	Unknown	2006-01-13	Fibroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-67	OSA03-DOS-67	Osteosarcoma	Unknown	Unknown	2006-06-08	Osteoblastic and Chondroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-68	OSA03-DOS-68	Osteosarcoma	Unknown	Unknown	2006-08-01	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-69	OSA03-DOS-69	Osteosarcoma	Bone (Appendicular)	Unknown	2006-08-22	Osteoblastic and Chondroblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-71	OSA03-DOS-71	Osteosarcoma	Unknown	Unknown	2006-09-07	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Not Applicable			
+diagnosis	OSA03-DOS-75	OSA03-DOS-75	Osteosarcoma	Bone (Appendicular)	Unknown	2007-01-15	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-85	OSA03-DOS-85	Osteosarcoma	Bone (Appendicular)	Unknown	2009-02-16	Undefined		Unknown	Not Determined	Yes	Yes			
+diagnosis	OSA03-DOS-8	OSA03-DOS-8	Osteosarcoma	Bone (Appendicular)	Unknown	2001-01-26	Osteoblastic Osteosarcoma		Unknown	Not Determined	Yes	Yes			

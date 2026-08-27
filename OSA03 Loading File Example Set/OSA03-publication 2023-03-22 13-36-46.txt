@@ -1,0 +1,2 @@
+type	 study.clinical_study_designation	publication_title	authorship	year_of_publication	journal_citation	digital_object_id	pubmed_id
+publication	OSA03	Comparative analysis of genome-wide DNA methylation identifies patterns that associate with conserved transcriptional programs in osteosarcoma	Lauren J. Mills et al	2022	Bone. 2022 May; 158:115716	10.1016/j.bone.2020.115716	33127576
